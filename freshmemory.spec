@@ -3,7 +3,7 @@ Version:	1.0
 Release:	%mkrel 1
 License:	GNU GPL v3 
 Summary:	fresh memory 
-Group:		Education/Language
+Group:		Education
 URL:		http://sourceforge.net/projects/freshmemory/files/freshmemory/
 Source:		%{name}-%{version}.tar.bz2
 BuildRequires:	qt4-devel >= 4.7.0
