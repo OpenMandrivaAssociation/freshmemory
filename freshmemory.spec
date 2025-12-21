@@ -6,6 +6,7 @@ Summary:	fresh memory
 Group:		Education
 URL:		https://sourceforge.net/projects/freshmemory/files/freshmemory/
 Source:		%{name}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	qt4-devel >= 4.7.0
 BuildRequires:	gcc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
