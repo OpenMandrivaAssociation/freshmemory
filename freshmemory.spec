@@ -1,6 +1,6 @@
 Name: 		freshmemory
 Version:	1.0
-Release:	%mkrel 1
+Release:	2
 License:	GNU GPL v3 
 Summary:	fresh memory 
 Group:		Education
